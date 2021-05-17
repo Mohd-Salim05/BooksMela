@@ -1,0 +1,52 @@
+.primary-background{
+    background-color: #ab48dc;
+}
+.txt-weight{
+    font-weight: 100;
+    font-size: 30px;
+}
+.btn{
+    transition: background 0.5s;
+}
+.btn:hover{
+    background-color: #2eee5e;
+}
+.grd{
+    background: radial-gradient(#fff,#f8baba);
+}
+.shadow{
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.5);
+}
+.navbar{
+    background-attachment: fixed;
+}
+.fi{
+    font-style: italic;
+}
+.chr{
+    transition: 0.5s ease ;
+    cursor:pointer;
+}
+.chr:hover{
+    transform: scaleY(1.1);
+}
+footer{
+    background-color: rgb(80, 46, 46);
+}
+h5{
+    font-size: small;
+    font-weight: 150;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+   filter: invert(100%);
+}
+
+.fa-star,.fa-star-half-empty{
+	
+	font-size:20px;
+	color:#ebd534;
+}
+
+
